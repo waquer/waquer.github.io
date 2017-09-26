@@ -1,1 +1,1 @@
-<h1><a href="https://github.com/waquer">Waquer On GitHub</a></h1>
+<h1><a href="https://waquer.github.io/">Waquer On GitHub</a></h1>
